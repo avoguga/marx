@@ -1,7 +1,18 @@
 # Vue 3 + Vite
+# Desafio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+PARA RODAR O PROJETO DÊ:
 
-## Recommended IDE Setup
+YARN - PARA INSTALAR AS DEPENDENCIAS 
+E DEPOIS
+YARN DEV - PARA RODAR O PROJETO
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+SE VC NÃO TIVER O YARN NO PC DE UM 
+
+npm install --global yarn
+
+QUERO FAÇA UMA TELA EM VUE JS QUE TENHA UM BOTAO NO MEIO
+TODA VEZ QUE VC APERTAR ESSE BOTÃO A FRASE DO KANYE MUDA.
+
+Consuma essa api aqui campeão [AQUI](https://api.kanye.rest/).
+
